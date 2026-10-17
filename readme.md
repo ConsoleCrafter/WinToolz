@@ -1,3 +1,6 @@
+GUTE PULL REQUESTS WERDEN ANGENOMMEN!
+
+
 # WinToolz
 
 Windows-Wartungs- und Setup-Tools fuer alle, die ihr System schnell aufraeumen, reparieren und neu einrichten wollen.
